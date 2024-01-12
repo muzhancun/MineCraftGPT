@@ -1,0 +1,6 @@
+.DS_Store
+report/*
+*.csv
+models/*
+data/*
+draw.py
