@@ -4,3 +4,4 @@ report/*
 models/*
 data/*
 draw.py
+wandb/*
