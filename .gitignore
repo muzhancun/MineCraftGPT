@@ -5,3 +5,4 @@ models/*
 data/*
 draw.py
 wandb/*
+__pycache__/*
